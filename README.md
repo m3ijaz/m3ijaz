@@ -24,8 +24,6 @@ In addition to my technical knowledge, I have exceptional communication and team
 <p align="left">
 <a href="https://linkedin.com/in/mdmahabubmorshedijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmahabubmorshedijaz" height="30" width="40" /></a>
 <a href="https://fb.com/mahabubmorshedijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahabubmorshedijaz" height="30" width="40" /></a>
-<a href="https://twitter.com/ijazmahabub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ijazmahabub" height="30" width="40" /></a>
-<a href="https://instagram.com/morshed_ijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morshed_ijaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
